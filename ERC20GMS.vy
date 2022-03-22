@@ -1,7 +1,7 @@
 # @version 0.2.4
 """
-@title Curve DAO Token
-@author Curve Finance
+@title Gems DAO Token
+@author Avatar Finance, Curve Finance, Swerve Finance
 @license MIT
 @notice ERC20 with piecewise-linear mining supply.
 @dev Based on the ERC-20 token standard as defined at
