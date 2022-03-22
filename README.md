@@ -1,2 +1,2 @@
-# SwervContracts
-The Swerve Finance Contracts
+# AvatarContracts
+The Avatar Finance Contracts
